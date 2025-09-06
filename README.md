@@ -1,4 +1,4 @@
-# Renewable Energy Dataasets:
+# Renewable Energy Datasets:
 
 ---
 
